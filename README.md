@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Ashutosh Singh  
 
-### 💼 Lead Consultant | 7.4+ Years Experience  
+### 💼 Lead Consultant | 7.10+ Years Experience  
 
 ---
 
 ## 🚀 About Me  
-Experienced **Lead Consultant** with **7.4+ years** of expertise in the **Information Technology and Services** sector.  
+Experienced **Lead Consultant** with **7.10+ years** of expertise in the **Information Technology and Services** sector.  
 
 With a strong foundation in **automation testing** and **mobile application testing**, I specialize in building scalable frameworks and ensuring product excellence across complex environments.  
 
